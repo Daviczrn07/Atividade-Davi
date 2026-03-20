@@ -1,0 +1,39 @@
+@import url('style.css');
+fieldset{
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid darkblue;
+}
+legend{
+    color: black;
+    padding: 0 8px;
+}
+textarea{
+    background-color: transparent;
+    border-radius: 5px;
+    border: 2px solid darkblue;
+    outline: none;
+}
+textarea::placeholder{
+    color: black;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+input::placeholder{
+    color: black;
+    background-color: gray;
+    border: 2px solid darkblue;
+}
+button{
+    background-color: darkblue;
+    color: aliceblue;
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    
+}
+button:hover{
+    font-weight: bold;
+    border: 2px solid #331f19;
+}

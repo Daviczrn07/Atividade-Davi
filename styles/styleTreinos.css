@@ -1,0 +1,9 @@
+@import url('style.css');
+ ul {
+    line-height: 1.8;
+     }
+.treinos{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+        }
