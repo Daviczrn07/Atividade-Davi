@@ -36,12 +36,12 @@ margin: auto;
     margin: 0 0px;
     padding: 20px;
     text-decoration: none;
-    color: blue;
+    color: darkblue;
     font-weight: bold;
     text-align: center;
 }
 .menu a:hover{
-    background-color: blue;
+    background-color: darkblue;
     color: aliceblue;
     border-radius: 80px;
     transition: 350ms ease;
@@ -93,6 +93,7 @@ img{
     width: 800px;
     height: auto;
     margin-top: 20px;
+    border: solid 4px darkblue
 }
 h2{
     margin: 10px 0;
